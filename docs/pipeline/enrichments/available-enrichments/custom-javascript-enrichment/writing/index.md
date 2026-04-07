@@ -165,7 +165,7 @@ Make sure that the schemas of your entities are defined and accessible to your p
 
 Sometimes you will want to modify the original event fields directly.
 
-:::warning
+:::note
 
 Keep in mind that the old value of a modified field will not be available in your data warehouse or lake. However, that might be your goal.
 
