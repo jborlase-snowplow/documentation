@@ -62,6 +62,13 @@ export const dbtVersions = {
                 "dbt-labs/dbt_utils": ">=1.0.0 <2.0.0",
                 "snowplow/snowplow_utils": ">=0.17.3 <0.18.0"
             }
+        },
+        "1.0.0": {
+            "dbtversion": ">=1.10.6 <2.0.0",
+            "packages": {
+                "dbt-labs/dbt_utils": ">=1.1.0 <2.0.0",
+                "snowplow/snowplow_utils": ">=1.0.0 <2.0.0"
+            }
         }
     },
     "snowplow/snowplow_ecommerce": {
@@ -224,6 +231,20 @@ export const dbtVersions = {
             "packages": {
                 "dbt-labs/dbt_utils": ">=1.0.0 <2.0.0",
                 "snowplow/snowplow_utils": ">=0.17.3 <0.18.0"
+            }
+        },
+        "1.0.0": {
+            "dbtversion": ">=1.10.6 <2.0.0",
+            "packages": {
+                "dbt-labs/dbt_utils": ">=1.1.0 <2.0.0",
+                "snowplow/snowplow_utils": ">=1.0.0 <2.0.0"
+            }
+        },
+        "1.0.1": {
+            "dbtversion": ">=1.10.6 <2.0.0",
+            "packages": {
+                "dbt-labs/dbt_utils": ">=1.1.0 <2.0.0",
+                "snowplow/snowplow_utils": ">=1.0.0 <2.0.0"
             }
         }
     },
@@ -488,6 +509,27 @@ export const dbtVersions = {
                 "dbt-labs/dbt_utils": ">=1.0.0 <2.0.0",
                 "snowplow/snowplow_utils": ">=0.17.3 <0.18.0"
             }
+        },
+        "1.0.0": {
+            "dbtversion": ">=1.10.6 <2.0.0",
+            "packages": {
+                "dbt-labs/dbt_utils": ">=1.1.0 <2.0.0",
+                "snowplow/snowplow_utils": ">=1.0.0 <2.0.0"
+            }
+        },
+        "1.0.1": {
+            "dbtversion": ">=1.10.6 <2.0.0",
+            "packages": {
+                "dbt-labs/dbt_utils": ">=1.1.0 <2.0.0",
+                "snowplow/snowplow_utils": ">=1.0.0 <2.0.0"
+            }
+        },
+        "1.0.2": {
+            "dbtversion": ">=1.10.6 <2.0.0",
+            "packages": {
+                "dbt-labs/dbt_utils": ">=1.1.0 <2.0.0",
+                "snowplow/snowplow_utils": ">=1.0.0 <2.0.0"
+            }
         }
     },
     "snowplow/snowplow_mobile": {
@@ -737,13 +779,11 @@ export const dbtVersions = {
                 "dbt-labs/dbt_utils": ">=1.0.0 <2.0.0",
                 "snowplow/snowplow_utils": ">=0.17.3 <0.18.0"
             }
-        }
-    },
-    "snowplow/snowplow_identities": {
-        "0.1.0": {
+        },
+        "1.0.0": {
             "dbtversion": ">=1.10.6 <2.0.0",
             "packages": {
-                "dbt-labs/dbt_utils": ">=1.0.0 <2.0.0",
+                "dbt-labs/dbt_utils": ">=1.1.0 <2.0.0",
                 "snowplow/snowplow_utils": ">=1.0.0 <2.0.0"
             }
         }
@@ -883,7 +923,14 @@ export const dbtVersions = {
             }
         },
         "1.0.0": {
-            "dbtversion": ">=1.10.6 <2.0.0",
+            "dbtversion": ">=1.6.0 <2.0.0",
+            "packages": {
+                "dbt-labs/dbt_utils": ">=1.1.0 <2.0.0",
+                "snowplow/snowplow_utils": ">=1.0.0 <2.0.0"
+            }
+        },
+        "1.0.1": {
+            "dbtversion": ">=1.6.0 <2.0.0",
             "packages": {
                 "dbt-labs/dbt_utils": ">=1.1.0 <2.0.0",
                 "snowplow/snowplow_utils": ">=1.0.0 <2.0.0"
@@ -1168,6 +1215,12 @@ export const dbtVersions = {
             }
         },
         "1.0.0": {
+            "dbtversion": ">=1.10.6 <2.0.0",
+            "packages": {
+                "dbt-labs/dbt_utils": ">=1.1.0 <2.0.0"
+            }
+        },
+        "1.0.1": {
             "dbtversion": ">=1.10.6 <2.0.0",
             "packages": {
                 "dbt-labs/dbt_utils": ">=1.1.0 <2.0.0"
